@@ -1,0 +1,6 @@
+.idea
+.ropeproject/
+.cache
+__pycache__
+.coverage
+.pytest_cache
